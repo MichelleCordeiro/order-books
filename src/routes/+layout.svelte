@@ -1,9 +1,9 @@
 <script lang="ts">
 	import '../app.css';
-  import Pagina from '../components/template/Pagina.svelte';
+  import Page from '../components/template/Page.svelte';
 	let { children } = $props();
 </script>
 
-	<Pagina>
+	<Page>
 		{@render children()}
-	</Pagina>
+	</Page>
