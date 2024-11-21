@@ -12,9 +12,9 @@
   </Nav>
 
   <Nav title="Principais Autores">
-    <NavItem text="J.K. Rowling" href="/" />
-    <NavItem text="J. R.R. Tolken" href="/" />
-    <NavItem text="George R.R. Martin" href="autores/george-martin" />
+    <NavItem text="J.K. Rowling" href="/autores/j-k-rowling" />
+    <NavItem text="J.R.R. Tolken" href="/autores/j-r-r-tolkien" />
+    <NavItem text="George R.R. Martin" href="/autores/george-r-r-martin" />
   </Nav>
 
   <Nav title="Outras Categorias">
