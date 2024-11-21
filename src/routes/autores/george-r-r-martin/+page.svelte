@@ -1,2 +1,6 @@
-<h1 class="text-3xl font-bold">George R.R. MArtin</h1>
-<a href="/">Voltar</a>
+<script>
+  import ConteudoAutor from '../../../components/autor/ConteudoAutor.svelte';
+  import autores from '../../../constants/autores';
+</script>
+
+<ConteudoAutor autor={autores[2]} />
