@@ -1,11 +1,18 @@
 <script>
   import ItemAutor from '../../components/autor/ItemAutor.svelte';
+  import Title from '../../components/shared/Title.svelte';
   import autores from '../../constants/autores';
-
 </script>
-<h1 class="text-3xl font-bold py-5">Autores</h1>
-<div class="grid grid-cols-2 gap-5">
-  {#each autores as autor}
-    <ItemAutor autor={autor} />
-  {/each}
+
+<div class="flex flex-col gap-10">
+  <Title
+    principal="Autores"
+    secondary="Conheça os autores que escrevem as histórias que você ama!"
+  />
+
+  <div class="grid grid-cols-2 gap-5">
+    {#each autores as autor}
+      <ItemAutor autor={autor} />
+    {/each}
+  </div>
 </div>
