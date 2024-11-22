@@ -1,6 +1,10 @@
 <script>
+  import { ordenaAutores } from '../../javascript/sortAuthors';
+  import autores from '../../constants/autores';
   import Nav from './Nav.svelte';
   import NavItem from './NavItem.svelte';
+
+  ordenaAutores()
 </script>
 
 <aside class="w-72 flex flex-col gap-10 self-start border border-zinc-800 p-5 rounded-md">
@@ -12,9 +16,9 @@
   </Nav>
 
   <Nav title="Principais Autores">
-    <NavItem text="J.K. Rowling" href="/autores/j-k-rowling" />
-    <NavItem text="J.R.R. Tolken" href="/autores/j-r-r-tolkien" />
-    <NavItem text="George R.R. Martin" href="/autores/george-r-r-martin" />
+    {#each autores as autor}
+      <NavItem text={autor.nome} href='/autores/{autor.id}'/>
+    {/each}
   </Nav>
 
   <Nav title="Outras Categorias">
