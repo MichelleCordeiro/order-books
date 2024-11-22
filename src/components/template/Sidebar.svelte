@@ -17,7 +17,7 @@
 
   <Nav title="Principais Autores">
     {#each autores as autor}
-      <NavItem text={autor.nome} href='/autores/{autor.id}'/>
+      <NavItem text={autor?.nome} href='/autores/{autor?.id}'/>
     {/each}
   </Nav>
 
