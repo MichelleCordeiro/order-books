@@ -1,44 +1,5 @@
 const autores = [
-  {
-    id: 'j-k-rowling',
-    nome: 'J.K. Rowling',
-    imagem:
-      'https://www.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/04/GettyImages-950041970-e1712065084538.jpg',
-    biografia: `
-# J.K. Rowling
-
-**Joanne Rowling**, mais conhecida pelo pseudônimo **J.K. Rowling**, é uma escritora e produtora britânica, nascida em 31 de julho de 1965, em Yate, Gloucestershire, Inglaterra. Ela é famosa por sua série de livros **"Harry Potter"**, que se tornou um fenômeno mundial e deu origem a uma franquia multimídia de grande sucesso, incluindo filmes, peças de teatro e parques temáticos.
-
-## Primeiros Anos e Início da Carreira
-Rowling teve uma infância marcada pelo gosto pela leitura e escrita. Formou-se em francês e estudos clássicos pela **Universidade de Exeter** e trabalhou como pesquisadora e professora de inglês em Portugal. Após um período difícil em sua vida pessoal, durante o qual enfrentou dificuldades financeiras, Rowling começou a escrever o primeiro livro de *Harry Potter* enquanto vivia em Edimburgo, na Escócia, com sua filha.
-
-## A Criação de Harry Potter
-Em 1997, *Harry Potter e a Pedra Filosofal* (*Harry Potter and the Philosopher's Stone*) foi publicado e, rapidamente, tornou-se um sucesso entre leitores de todas as idades. A série Harry Potter é composta por sete livros:
-
-1. **Harry Potter e a Pedra Filosofal** (*Harry Potter and the Philosopher's Stone*) - 1997
-2. **Harry Potter e a Câmara Secreta** (*Harry Potter and the Chamber of Secrets*) - 1998
-3. **Harry Potter e o Prisioneiro de Azkaban** (*Harry Potter and the Prisoner of Azkaban*) - 1999
-4. **Harry Potter e o Cálice de Fogo** (*Harry Potter and the Goblet of Fire*) - 2000
-5. **Harry Potter e a Ordem da Fênix** (*Harry Potter and the Order of the Phoenix*) - 2003
-6. **Harry Potter e o Enigma do Príncipe** (*Harry Potter and the Half-Blood Prince*) - 2005
-7. **Harry Potter e as Relíquias da Morte** (*Harry Potter and the Deathly Hallows*) - 2007
-
-Os livros alcançaram enorme sucesso global, vendendo mais de 500 milhões de cópias e sendo traduzidos para mais de 80 idiomas.
-
-## O Mundo de Harry Potter e o Impacto Cultural
-A série de livros de Harry Potter deu origem a uma franquia multimídia, incluindo uma bem-sucedida série de filmes produzidos pela Warner Bros., estrelados por **Daniel Radcliffe** como Harry Potter, **Emma Watson** como Hermione Granger, e **Rupert Grint** como Ron Weasley. A franquia também expandiu-se para peças de teatro, como *Harry Potter and the Cursed Child*, parques temáticos e a série *Animais Fantásticos* (*Fantastic Beasts*), que explora o universo de Harry Potter em novas histórias.
-
-## Outras Obras e Pseudônimo
-Além de *Harry Potter*, Rowling escreveu livros para adultos sob o pseudônimo de **Robert Galbraith**, incluindo a série de mistério protagonizada pelo detetive **Cormoran Strike**. Ela também escreveu *Morte Súbita* (*The Casual Vacancy*), um romance de drama social para adultos.
-
-## Vida Pessoal e Legado
-Rowling casou-se com Neil Murray em 2001 e tem três filhos. Ela é uma filantropa ativa, fundadora de várias instituições de caridade, incluindo a **Lumos**, que apoia crianças em situação vulnerável. Rowling é uma das autoras mais influentes e bem-sucedidas do século XXI, tendo revolucionado a literatura infantojuvenil e inspirado milhões de leitores ao redor do mundo.
-
----
-
-> *"As palavras são, na minha nada humilde opinião, nossa fonte mais inesgotável de magia."* - J.K. Rowling
-        `
-  },
+  ,
   {
     id: 'j-r-r-tolkien',
     nome: 'J.R.R. Tolkien',
@@ -83,7 +44,7 @@ O impacto de J.R.R. Tolkien na literatura é imenso, e sua criação da Terra M�
     id: 'george-r-r-martin',
     nome: 'George R.R. Martin',
     imagem:
-      'https://musicaecinema.com/wp-content/uploads/2024/11/george-rr-martin-spin-off-arya-stark-1024x576.webp',
+      'https://s2.abcstatics.com/abc/www/multimedia/cultura/2022/10/25/george-rr-martin-nueva-fecha-RlR5ifkFnvGO574n2vI1iVL-1240x768@abc.jpg',
     biografia: `
 # George R.R. Martin
 
@@ -120,6 +81,271 @@ George R.R. Martin é amplamente reconhecido como um dos mais influentes autores
         `
   },
   {
+    id: 'frank-herbert',
+    nome: 'Frank Herbert',
+    imagem:
+      'https://www.historylink.org/Content/Media/Photos/Large/Frank-Herbert-working-in-his-home-office-Port-Townsend-September-11-1979.jpg',
+    biografia: `
+# Frank Herbert
+
+**Frank Patrick Herbert**, nascido em 8 de outubro de 1920, em Tacoma, Washington, e falecido em 11 de fevereiro de 1986, foi um escritor americano reconhecido mundialmente como o autor da série de ficção científica **"Duna"** (*Dune*). Seu trabalho é considerado uma das maiores contribuições para o gênero de ficção científica, especialmente pela profundidade de sua narrativa e os temas abordados, que incluem ecologia, política, religião e sociologia.
+
+## Primeiros Anos e Carreira Inicial
+Desde jovem, Herbert demonstrou interesse pela escrita e começou sua carreira como jornalista. Trabalhou como fotógrafo e escritor freelancer em vários jornais. Em 1941, ingressou na **Universidade de Washington**, mas abandonou os estudos e serviu na marinha dos Estados Unidos durante a Segunda Guerra Mundial.
+
+Após o conflito, retornou ao jornalismo e começou a explorar a ficção científica como escritor. Seu primeiro romance publicado foi *The Dragon in the Sea* (1956), que abordava temas psicológicos e tecnológicos, já mostrando sua habilidade em misturar ciência e filosofia.
+
+## A Criação de Duna
+A inspiração para *Duna* veio de sua pesquisa sobre ecologia em desertos para um artigo nunca concluído. O trabalho evoluiu para um romance épico, e o primeiro volume, *Duna*, foi publicado em 1965. O livro ganhou os prêmios **Hugo** e **Nebula**, os maiores reconhecimentos da ficção científica, e consolidou Herbert como um mestre do gênero.
+
+A série *Duna* é composta por seis livros escritos por Herbert:
+
+1. **Duna** (*Dune*) - 1965
+2. **O Messias de Duna** (*Dune Messiah*) - 1969
+3. **Os Filhos de Duna** (*Children of Dune*) - 1976
+4. **O Imperador-Deus de Duna** (*God Emperor of Dune*) - 1981
+5. **Os Hereges de Duna** (*Heretics of Dune*) - 1984
+6. **As Herdeiras de Duna** (*Chapterhouse: Dune*) - 1985
+
+A série explora temas complexos, incluindo a interação entre religião, poder, meio ambiente e destino humano.
+
+## O Impacto de Duna
+*Duna* é amplamente considerado o maior romance de ficção científica já escrito, tendo vendido milhões de cópias em todo o mundo. A obra inspirou adaptações cinematográficas e televisivas, incluindo os filmes de 1984, dirigido por **David Lynch**, e de 2021, dirigido por **Denis Villeneuve**. O universo de *Duna* continua a ser expandido por seu filho **Brian Herbert** e o coautor **Kevin J. Anderson**, que escreveram diversas prequelas e sequências.
+
+## Outros Trabalhos
+Além de *Duna*, Herbert escreveu outros romances notáveis, incluindo *The Dosadi Experiment* (1977) e *The White Plague* (1982), que exploram temas como engenharia genética e bioterrorismo.
+
+## Vida Pessoal e Legado
+Frank Herbert foi casado com Beverly Ann Stuart, com quem teve três filhos. Após sua morte em 1986, Herbert deixou um legado incomparável na ficção científica, sendo lembrado como um autor visionário que influenciou gerações de escritores, cineastas e leitores.
+
+---
+
+> *"Sem mudança, algo dorme dentro de nós e raramente acorda. O adormecido precisa despertar."* - Frank Herbert, *Duna*
+        `
+  },
+  {
+    id: 'douglas-adams',
+    nome: 'Douglas Adams',
+    imagem:
+      'https://kanto.legiaodosherois.com.br/w760-h398-cfill/wp-content/uploads/2017/05/legiao_9ONLEsMbHyUhXJPivtKF3QZq_pIwnGBufT85aoR41e.png.webp',
+    biografia: `
+# Douglas Adams
+
+**Douglas Noel Adams**, nascido em 11 de março de 1952, em Cambridge, Inglaterra, e falecido em 11 de maio de 2001, foi um escritor, roteirista e humorista britânico. Ele é mais conhecido como o criador da série **"O Guia do Mochileiro das Galáxias"** (*The Hitchhiker's Guide to the Galaxy*), uma obra que mistura ficção científica e humor de forma única e genial, conquistando milhões de fãs ao redor do mundo.
+
+## Primeiros Anos e Carreira
+Adams cresceu em Essex e estudou literatura inglesa na **Universidade de Cambridge**, onde se envolveu com o grupo de teatro **Footlights**, conhecido por revelar talentos do humor britânico. Após se formar, começou a trabalhar como roteirista para a BBC, contribuindo para programas como *Monty Python's Flying Circus* e outras produções de comédia.
+
+## O Guia do Mochileiro das Galáxias
+A ideia para *O Guia do Mochileiro das Galáxias* surgiu enquanto Adams viajava pela Europa com uma cópia do *Guia do Viajante na Europa*. Em 1978, ele transformou essa ideia em uma série de rádio para a **BBC**, que se tornou um sucesso instantâneo.
+
+Posteriormente, *O Guia do Mochileiro das Galáxias* foi adaptado para um romance em 1979, seguido por outros quatro volumes principais:
+
+1. **O Guia do Mochileiro das Galáxias** (*The Hitchhiker's Guide to the Galaxy*) - 1979
+2. **O Restaurante no Fim do Universo** (*The Restaurant at the End of the Universe*) - 1980
+3. **A Vida, o Universo e Tudo Mais** (*Life, the Universe and Everything*) - 1982
+4. **Até Mais, e Obrigado pelos Peixes!** (*So Long, and Thanks for All the Fish*) - 1984
+5. **Praticamente Inofensiva** (*Mostly Harmless*) - 1992
+
+A série explora temas filosóficos e absurdos, como o significado da vida, a natureza do universo e a lógica do caos, com um humor irreverente e inteligente.
+
+## Outras Obras e Projetos
+Além do *Guia*, Adams escreveu o livro *Dirk Gently’s Holistic Detective Agency* (1987) e sua sequência, *The Long Dark Tea-Time of the Soul* (1988), misturando mistério, humor e elementos sobrenaturais.
+
+Adams também trabalhou como roteirista em projetos da série *Doctor Who* e foi um defensor ativo da preservação ambiental, dedicando-se a causas como a proteção de espécies ameaçadas.
+
+## Legado e Impacto Cultural
+Douglas Adams é celebrado como um dos maiores escritores de humor e ficção científica do século XX. Seu estilo inconfundível influenciou gerações de autores e fãs. Mesmo após sua morte prematura em 2001, seu trabalho continua a ser amado e amplamente lido, com frases icônicas como **"Não entre em pânico"** e **"42"**, a resposta para o sentido da vida, o universo e tudo mais.
+
+---
+
+> *"Eu posso não ter ido aonde pretendia ir, mas acho que acabei indo parar onde precisava estar."* - Douglas Adams
+        `
+  },
+  {
+    id: 'suzanne-collins',
+    nome: 'Suzanne Collins',
+    imagem:
+      'https://garimpandolivrosemoferta.com/blog/wp-content/uploads/2023/04/suzanne-collins-conheca-a-autora-de-jogos-vorazes.jpg',
+    biografia: `
+# Suzanne Collins
+
+**Suzanne Collins**, nascida em 10 de agosto de 1962, em Hartford, Connecticut, é uma autora e roteirista americana amplamente conhecida por sua série de livros distópicos **"Jogos Vorazes"** (*The Hunger Games*). Suas obras exploram temas como opressão, resistência, sacrifício e sobrevivência, cativando leitores de todas as idades e alcançando enorme sucesso global.
+
+## Primeiros Anos e Carreira
+Collins cresceu em uma família militar, o que influenciou seu interesse por temas como guerra e seus efeitos nas pessoas, especialmente nas crianças. Formou-se em drama e telecomunicações pela **Indiana University** e depois obteve um mestrado em escrita dramática pela **New York University**.
+
+Ela começou sua carreira como roteirista para programas infantis da televisão, incluindo *Clarissa Explains It All* e *The Mystery Files of Shelby Woo*, da Nickelodeon.
+
+## A Série Jogos Vorazes
+Em 2008, Suzanne Collins lançou *Jogos Vorazes* (*The Hunger Games*), o primeiro livro de uma trilogia que conquistou o público com sua história distópica. A série completa inclui:
+
+1. **Jogos Vorazes** (*The Hunger Games*) - 2008
+2. **Em Chamas** (*Catching Fire*) - 2009
+3. **A Esperança** (*Mockingjay*) - 2010
+
+Os livros se passam em Panem, uma nação pós-apocalíptica onde jovens são forçados a participar de uma competição mortal transmitida como entretenimento. A protagonista, **Katniss Everdeen**, torna-se um símbolo de resistência contra o regime opressor da Capital.
+
+A trilogia foi adaptada em uma série de filmes de sucesso estrelados por **Jennifer Lawrence**, que ajudaram a expandir o alcance das obras para milhões de novos fãs.
+
+## A Cantiga dos Pássaros e das Serpentes
+Em 2020, Collins lançou o romance *A Cantiga dos Pássaros e das Serpentes* (*The Ballad of Songbirds and Snakes*), um prelúdio de *Jogos Vorazes* que explora a juventude de **Coriolanus Snow**, futuro presidente tirano de Panem.
+
+## Outras Obras
+Antes de *Jogos Vorazes*, Collins escreveu a série infantojuvenil *As Crônicas do Subterrâneo* (*The Underland Chronicles*), composta por cinco livros lançados entre 2003 e 2007. Essa série combina aventura e fantasia, com temas de coragem e empatia.
+
+## Legado e Impacto Cultural
+Suzanne Collins é reconhecida como uma das autoras mais influentes de literatura jovem contemporânea. Seus livros abordam questões sociais e políticas de forma acessível e instigante, levando leitores a refletirem sobre injustiças, escolhas morais e os impactos da guerra.
+
+---
+
+> *"É o que fazemos que define quem somos, muito mais do que o que sentimos ou pensamos."* - Suzanne Collins
+        `
+  },
+  {
+    id: 'veronica-roth',
+    nome: 'Veronica Roth',
+    imagem:
+      'https://resources.diariolibre.com/images/2023/07/29/veronica-roth-2-bf4deabe-focus-0-0-896-504.jpg',
+    biografia: `
+# Veronica Roth
+
+**Veronica Roth**, nascida em 19 de agosto de 1988, em Nova York, é uma escritora americana mais conhecida por sua série de livros distópicos **"Divergente"** (*Divergent*). Seu trabalho tornou-se um grande sucesso na literatura jovem adulta, explorando temas como identidade, escolhas e o impacto de sistemas opressivos.
+
+## Primeiros Anos e Carreira
+Roth cresceu em Barrington, Illinois, e demonstrou interesse pela escrita desde cedo. Ela frequentou a **Northwestern University**, onde estudou escrita criativa. Durante seus anos na universidade, começou a desenvolver o conceito de *Divergente*.
+
+Seu primeiro romance, *Divergente*, foi publicado quando Roth tinha apenas 22 anos, imediatamente conquistando fãs e críticos.
+
+## A Série Divergente
+A série *Divergente* ocorre em uma Chicago futurista dividida em facções baseadas em virtudes humanas, como coragem, inteligência e altruísmo. A protagonista, **Tris Prior**, luta para encontrar seu lugar nesse sistema enquanto descobre segredos que podem mudar o destino de sua sociedade.
+
+Os livros da série são:
+
+1. **Divergente** (*Divergent*) - 2011
+2. **Insurgente** (*Insurgent*) - 2012
+3. **Convergente** (*Allegiant*) - 2013
+
+A série foi adaptada em uma franquia de filmes estrelada por **Shailene Woodley** como Tris e **Theo James** como Quatro. Embora o sucesso inicial dos filmes tenha sido significativo, as adaptações posteriores enfrentaram desafios críticos e comerciais.
+
+## Outros Trabalhos
+Roth continuou a explorar temas complexos em obras posteriores, incluindo:
+
+- **Quatro: Histórias da Série Divergente** (*Four: A Divergent Collection*) - 2014
+  Uma coletânea de contos que exploram o ponto de vista de Tobias Eaton, conhecido como Quatro, um dos principais personagens da série.
+
+- **Crave a Marca** (*Carve the Mark*) - 2017
+  Uma duologia de ficção científica que aborda questões de destino, poder e resistência em um universo alienígena.
+
+- **The End and Other Beginnings** - 2019
+  Uma coleção de contos de ficção científica e fantasia.
+
+- **Chosen Ones** - 2020
+  Um romance adulto que subverte o gênero de "heróis escolhidos", mostrando as consequências psicológicas de salvar o mundo.
+
+## Legado
+Veronica Roth é uma das autoras mais jovens a alcançar grande sucesso na literatura jovem adulta, conquistando milhões de leitores ao redor do mundo. Sua capacidade de abordar dilemas éticos e emocionais em cenários distópicos ressoou com fãs de todas as idades, consolidando sua posição como uma figura importante na literatura contemporânea.
+
+---
+
+> *"Talvez o que mais nos define sejam as escolhas que fazemos em momentos de medo."* - Veronica Roth
+        `
+  },
+  {
+    id: 'rick-riordan',
+    nome: 'Rick Riordan',
+    imagem:
+      'https://kanto.legiaodosherois.com.br/w760-h398-gnw-cfill-q95/wp-content/uploads/2022/10/legiao_vscu1_WdyQp8.png.webp',
+    biografia: `
+# Rick Riordan
+
+**Richard Russell Riordan Jr.**, conhecido como **Rick Riordan**, nasceu em 5 de junho de 1964, em San Antonio, Texas. Ele é um dos autores mais populares da literatura infantojuvenil contemporânea, famoso por suas séries baseadas em mitologia, incluindo **"Percy Jackson e os Olimpianos"** (*Percy Jackson and the Olympians*).
+
+## Primeiros Anos e Carreira
+Riordan formou-se em inglês e história pela **Universidade do Texas** em Austin e trabalhou como professor do ensino médio por muitos anos, ensinando mitologia, inglês e história. Durante esse período, começou a escrever mistérios para adultos antes de se voltar para a literatura infantojuvenil.
+
+A ideia para a série Percy Jackson surgiu enquanto ele contava histórias da mitologia grega para seu filho, que tinha dislexia e TDAH. Inspirado pela paixão do filho por essas histórias, Riordan criou Percy, um herói disléxico e com TDAH.
+
+## A Série Percy Jackson e os Olimpianos
+A série segue Percy Jackson, um semideus moderno, enquanto ele descobre seu legado como filho de Poseidon e enfrenta perigos em aventuras baseadas na mitologia grega. Os cinco livros da série são:
+
+1. **O Ladrão de Raios** (*The Lightning Thief*) - 2005
+2. **O Mar de Monstros** (*The Sea of Monsters*) - 2006
+3. **A Maldição do Titã** (*The Titan's Curse*) - 2007
+4. **A Batalha do Labirinto** (*The Battle of the Labyrinth*) - 2008
+5. **O Último Olimpiano** (*The Last Olympian*) - 2009
+
+A série se tornou um fenômeno global, vendendo milhões de cópias e inspirando adaptações para o cinema e uma série de televisão.
+
+## Outras Obras
+Riordan expandiu o universo mitológico com séries adicionais:
+
+- **Os Heróis do Olimpo** (*The Heroes of Olympus*)
+Uma sequência de *Percy Jackson*, que combina mitologia grega e romana.
+
+- **As Crônicas dos Kane** (*The Kane Chronicles*)
+Uma trilogia inspirada na mitologia egípcia.
+
+- **Magnus Chase e os Deuses de Asgard** (*Magnus Chase and the Gods of Asgard*)
+Baseada na mitologia nórdica.
+
+- **As Provações de Apolo** (*The Trials of Apollo*)
+Uma série que segue Apolo, transformado em mortal, enfrentando desafios no mundo moderno.
+
+Riordan também criou o selo editorial *Rick Riordan Presents*, dedicado a apoiar autores diversos que escrevem histórias baseadas em mitologias de todo o mundo.
+
+## Legado e Impacto
+Rick Riordan é amplamente reconhecido por tornar a mitologia acessível e emocionante para leitores jovens, ao mesmo tempo que aborda temas como inclusão, identidade e empoderamento. Suas histórias combinam aventura, humor e emoção, ressoando com leitores de todas as idades.
+
+---
+
+> *"Se minha vida é uma tragédia, pelo menos é uma tragédia épica."* - Rick Riordan, *Percy Jackson e os Olimpianos*
+        `
+  },
+  {
+    id: 'cs-lewis',
+    nome: 'C.S. Lewis',
+    imagem: 'https://livrospraler.com/wp-content/uploads/2024/06/livros-do-cs-lewis-1024x728.jpg',
+    biografia: `
+# C.S. Lewis
+
+**Clive Staples Lewis**, conhecido como **C.S. Lewis**, nasceu em 29 de novembro de 1898, em Belfast, Irlanda (atual Irlanda do Norte), e faleceu em 22 de novembro de 1963, em Oxford, Inglaterra. Ele foi um escritor, professor e teólogo cristão, célebre por sua habilidade de combinar temas filosóficos e religiosos com histórias fantásticas. Sua obra mais conhecida é a série **"As Crônicas de Nárnia"** (*The Chronicles of Narnia*).
+
+## Primeiros Anos e Formação
+Desde cedo, Lewis demonstrou paixão pela literatura e mitologia, escrevendo histórias e explorando mundos imaginários. Ele estudou em Oxford, onde se destacou em literatura, filosofia e história antiga. Durante a Primeira Guerra Mundial, serviu como oficial no exército britânico, experiência que influenciou sua visão de mundo.
+
+Após a guerra, tornou-se professor em Oxford e mais tarde na Universidade de Cambridge, dedicando-se ao estudo da literatura medieval e renascentista.
+
+## Conversão e Influência Cristã
+Embora tenha sido ateu durante a juventude, Lewis converteu-se ao cristianismo na década de 1930, influenciado por amigos como **J.R.R. Tolkien**. Essa conversão moldou grande parte de sua obra, incluindo livros de apologética cristã, como *Mero Cristianismo* (*Mere Christianity*), *O Problema do Sofrimento* (*The Problem of Pain*) e *Cartas de um Diabo a Seu Aprendiz* (*The Screwtape Letters*).
+
+## As Crônicas de Nárnia
+Entre 1950 e 1956, Lewis escreveu *As Crônicas de Nárnia*, uma série de sete livros que se tornou um clássico da literatura infantil. A série se passa no mundo mágico de Nárnia, onde animais falam, a magia é real, e temas cristãos são explorados de maneira simbólica. Os livros são:
+
+1. **O Leão, a Feiticeira e o Guarda-Roupa** (*The Lion, the Witch and the Wardrobe*) - 1950
+2. **Príncipe Caspian** (*Prince Caspian*) - 1951
+3. **A Viagem do Peregrino da Alvorada** (*The Voyage of the Dawn Treader*) - 1952
+4. **A Cadeira de Prata** (*The Silver Chair*) - 1953
+5. **O Cavalo e Seu Menino** (*The Horse and His Boy*) - 1954
+6. **O Sobrinho do Mago** (*The Magician's Nephew*) - 1955
+7. **A Última Batalha** (*The Last Battle*) - 1956
+
+A série explora temas como redenção, sacrifício e coragem, tornando-se uma das obras mais influentes da literatura infantil.
+
+## Outras Obras
+Além de *As Crônicas de Nárnia*, Lewis escreveu romances de ficção científica como *A Trilogia Espacial* (*The Space Trilogy*), que inclui os livros *Além do Planeta Silencioso* (*Out of the Silent Planet*), *Perelandra* e *Aquela Força Medonha* (*That Hideous Strength*).
+
+Lewis também publicou obras acadêmicas, ensaios e poesia, demonstrando sua versatilidade literária.
+
+## Legado
+C.S. Lewis é amplamente reconhecido como um dos maiores escritores do século XX, influenciando tanto a literatura infantil quanto o pensamento cristão. Suas obras continuam a cativar leitores de todas as idades e crenças, oferecendo insights profundos sobre a natureza humana, a fé e a imaginação.
+
+---
+
+> *"Você nunca é velho demais para estabelecer um novo objetivo ou sonhar um novo sonho."* - C.S. Lewis
+        `
+  },
+  {
     id: 'stephen-king',
     nome: 'Stephen King',
     imagem: 'https://perolasepipocas.com.br/wp-content/uploads/2022/10/stephen-king.jpg',
@@ -153,7 +379,7 @@ King foi casado com Tabitha King desde 1971, e juntos têm três filhos. Além d
 ---
 
 > *"Os livros são uma porta. E essa porta pode abrir para um mundo que só os livros podem criar."* - Stephen King
-  `
+        `
   },
   {
     id: 'dan-brown',
@@ -188,7 +414,7 @@ Dan Brown é casado com Blythe Newlon desde 1997. Ele é um defensor da educaç�
 ---
 
 > * "A história está repleta de mistérios, e as respostas muitas vezes se escondem à vista de todos." * - Dan Brown
-  `
+        `
   },
   {
     id: 'agatha-christie',
@@ -227,13 +453,13 @@ Agatha Christie faleceu em 12 de janeiro de 1976, aos 85 anos, deixando um legad
 ---
 
 > *"O crime é apenas uma questão de observação e dedução."* - Agatha Christie
-  `
+        `
   },
   {
     id: 'arthur-conan-doyle',
     nome: 'Arthur Conan Doyle',
     imagem:
-      'https://ichef.bbci.co.uk/ace/standard/512/cpsprodpb/31ab/live/83069aa0-5018-11ef-a64a-6775cc5bfd22.jpg',
+      'https://www.adazing.com/wp-content/uploads/2024/03/Arthur-Conan-Doyle-e1710902105219.jpeg',
     biografia: `
 # Arthur Conan Doyle
 
@@ -266,7 +492,7 @@ Conan Doyle faleceu em 7 de julho de 1930, aos 71 anos. Seu legado perdura, não
 ---
 
 > *"Quando você elimina o impossível, o que resta, por mais improvável que seja, deve ser a verdade."* - Arthur Conan Doyle
-  `
+        `
   },
   {
     id: 'paulo-coelho',
@@ -302,7 +528,7 @@ Ele também foi nomeado para o **Prêmio Nobel de Literatura** em 2006 e continu
 ---
 
 > *"Quando você quer alguma coisa, todo o universo conspira para que você realize o seu desejo."* - Paulo Coelho
-  `
+        `
   },
   {
     id: 'margaret-atwood',
@@ -340,7 +566,7 @@ Sua obra continua a influenciar gerações de leitores e escritores, e ela perma
 ---
 
 > *"A verdadeira liberdade é o direito de fazer as escolhas certas, e não fazer o que você quer a qualquer custo."* - Margaret Atwood
-  `
+        `
   },
   {
     id: 'george-orwell',

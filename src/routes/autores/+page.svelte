@@ -10,7 +10,7 @@
     secondary="Conheça os autores que escrevem as histórias que você ama!"
   />
 
-  <div class="grid grid-cols-2 gap-5">
+  <div class="grid grid-cols-3 gap-5">
     {#each autores as autor}
       <ItemAutor autor={autor} />
     {/each}
