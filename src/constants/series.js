@@ -196,8 +196,8 @@ const series = [
         autor: autores[12],
         ano: 1887,
         ordem: 1,
-        imagem: 'https://m.media-amazon.com/images/I/81IXqlvKH9L.jpg',
-        link: 'https://www.amazon.com.br/dp/B00IKZPZ0W'
+        imagem: 'https://m.media-amazon.com/images/I/81tmn7qB-bL._AC_UY218_.jpg',
+        link: 'https://www.amazon.com.br/Um-Estudo-Vermelho-Cole%C3%A7%C3%A3o-Cl%C3%A1ssicos/dp/8537810878/ref=sr_1_4?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3OTSQNS3HNUUO&dib=eyJ2IjoiMSJ9.PeplKgBpCuIs4ku4nJyV3FvJS-Xp1Hh2UNZElJmJhFhImk_XlnqU_pdo73L4Qo9QeXVLzSse8gMCWMTg-g5cOrPPrByyVZYvgxBPmA1gbIUSNjpPkHAzBByf6wALL-0exJ2kv_D76lffHMB_L4hLqtv_ptGKwWgKX_At6V_YPePQY1knOQFXcrzmJ1ENwwuy7x4oMGTg-ZYJp5Vcu9RZ9XlYAOzLYXJCCl1Oten4aHs.Iam3mwDD3VzV3-p1PFfmJI2F1zYpsv288Yud4tgITro&dib_tag=se&keywords=Arthur+Conan+Doyle&qid=1732319608&s=books&sprefix=arthur+conan+doyle%2Cstripbooks%2C152&sr=1-4'
       },
       {
         id: 'o-sinal-dos-quatro',
@@ -205,8 +205,8 @@ const series = [
         autor: autores[12],
         ano: 1890,
         ordem: 2,
-        imagem: 'https://m.media-amazon.com/images/I/81c6PfzZwDL.jpg',
-        link: 'https://www.amazon.com.br/dp/B00IKZPZZS'
+        imagem: 'https://m.media-amazon.com/images/I/61be7vluTaL._AC_UY218_.jpg',
+        link: 'https://www.amazon.com.br/Sherlock-Holmes-Signo-Quatro-Capa/dp/8595201862/ref=sr_1_14?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3OTSQNS3HNUUO&dib=eyJ2IjoiMSJ9.PeplKgBpCuIs4ku4nJyV3FvJS-Xp1Hh2UNZElJmJhFhImk_XlnqU_pdo73L4Qo9QeXVLzSse8gMCWMTg-g5cOrPPrByyVZYvgxBPmA1gbIUSNjpPkHAzBByf6wALL-0exJ2kv_D76lffHMB_L4hLqtv_ptGKwWgKX_At6V_YPePQY1knOQFXcrzmJ1ENwwuy7x4oMGTg-ZYJp5Vcu9RZ9XlYAOzLYXJCCl1Oten4aHs.Iam3mwDD3VzV3-p1PFfmJI2F1zYpsv288Yud4tgITro&dib_tag=se&keywords=Arthur+Conan+Doyle&qid=1732319608&s=books&sprefix=arthur+conan+doyle%2Cstripbooks%2C152&sr=1-14'
       },
       {
         id: 'o-cao-dos-baskervilles',
@@ -214,8 +214,8 @@ const series = [
         autor: autores[12],
         ano: 1902,
         ordem: 3,
-        imagem: 'https://m.media-amazon.com/images/I/91DyeU7W1GL.jpg',
-        link: 'https://www.amazon.com.br/dp/B00IKZQ02W'
+        imagem: 'https://m.media-amazon.com/images/I/619kzsBXy8L._AC_UY218_.jpg',
+        link: 'https://www.amazon.com.br/Sherlock-Holmes-C%C3%A3o-dos-Baskervilles/dp/8595201919/ref=sr_1_34?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3OTSQNS3HNUUO&dib=eyJ2IjoiMSJ9.Z3r1VP5RnsxKsJ6T2MNmpuPNVt6VB5Mbg8zcnjk7KuCynqEo7Y70r467Xr1aX5Z9TGJsDDBj3MXlbCyjTRIPKw.GK3SK1dWzTPf3q6LeyL2-HRdmKsLAhKai-Q8zkSP9-M&dib_tag=se&keywords=Arthur+Conan+Doyle&qid=1732319808&s=books&sprefix=arthur+conan+doyle%2Cstripbooks%2C152&sr=1-34'
       },
       {
         id: 'o-vale-do-medo',
@@ -223,8 +223,8 @@ const series = [
         autor: autores[12],
         ano: 1915,
         ordem: 4,
-        imagem: 'https://m.media-amazon.com/images/I/81oVrB+gMrL.jpg',
-        link: 'https://www.amazon.com.br/dp/B00IKZQ02X'
+        imagem: 'https://m.media-amazon.com/images/I/71QodoRZl9L._AC_UY218_.jpg',
+        link: 'https://www.amazon.com.br/Vale-Medo-Arthur-Conan-Doyle/dp/8537814768/ref=sr_1_37?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3OTSQNS3HNUUO&dib=eyJ2IjoiMSJ9.Z3r1VP5RnsxKsJ6T2MNmpuPNVt6VB5Mbg8zcnjk7KuCynqEo7Y70r467Xr1aX5Z9TGJsDDBj3MXlbCyjTRIPKw.GK3SK1dWzTPf3q6LeyL2-HRdmKsLAhKai-Q8zkSP9-M&dib_tag=se&keywords=Arthur+Conan+Doyle&qid=1732319808&s=books&sprefix=arthur+conan+doyle%2Cstripbooks%2C152&sr=1-37&ufe=app_do%3Aamzn1.fos.6d798eae-cadf-45de-946a-f477d47705b9'
       }
     ]
   },
@@ -244,8 +244,8 @@ const series = [
         autor: autores[8],
         ano: 1955,
         ordem: 1,
-        imagem: 'https://m.media-amazon.com/images/I/91sz3gGH7cL.jpg',
-        link: 'https://www.amazon.com.br/dp/B008Y8TGB8'
+        imagem: 'https://m.media-amazon.com/images/I/711WTt57f7L._AC_UY218_.jpg',
+        link: 'https://www.amazon.com.br/As-Cr%C3%B4nicas-Narnia-Sobrinho-Mago/dp/8578277902/ref=sr_1_2?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=38GLIS7XX2BEF&dib=eyJ2IjoiMSJ9.K9hKhORGuLnHM6xSRcRV_dAJD2a8jAwaetahfsv4jytSD7fMoBAixvasbFEdQkFUmnaa9Ito1T847778DkTCv8hAyT63Jk7kca5KK1eAQCeS0b7gJJXF7k-EfwyzfnUJEZmIT9Tl2Qs-_S71JCJl8Vnm-tLDCpZ51DLCe4bCRbwSQclp7OAx6BLcynez9XgrM05k7YUuo15YGcJZmkbTeBLIfqwNoLN2EEXBFMILlXM.SiQQCmiLMrm1m-B61h2g6a3zTt6arwBMng9AVAUqucI&dib_tag=se&keywords=C.S.+Lewis+narnia+mago&qid=1732319949&s=books&sprefix=c.s.+lewis+narnia+mago%2Cstripbooks%2C144&sr=1-2&ufe=app_do%3Aamzn1.fos.6d798eae-cadf-45de-946a-f477d47705b9'
       },
       {
         id: 'o-leao-a-feiticeira-e-o-guarda-roupa',
@@ -253,8 +253,8 @@ const series = [
         autor: autores[8],
         ano: 1950,
         ordem: 2,
-        imagem: 'https://m.media-amazon.com/images/I/91z4b0kSW+L.jpg',
-        link: 'https://www.amazon.com.br/dp/B008Y8TFZ8'
+        imagem: 'https://m.media-amazon.com/images/I/912ChRKXhVL._AC_UY218_.jpg',
+        link: 'https://www.amazon.com.br/Bruxa-Guarda-roupa-Cr%C3%B4nicas-N%C3%A1rnia-Livro/dp/B008NUJ99M/ref=sr_1_15?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=31P6JX3ICRMOS&dib=eyJ2IjoiMSJ9.ssHPnelcSJuVRalKKOlXjXnA3g1z0pu9WFDqL3uzLESnr0cD2iBC87fWmCkNJr19ta5gJlgJQ5tGEr5hmd33wbYS2ivwk0C8nHBKzUBkMDQeaJV7qunZpJORLSvhB0FwwJ1hz56TNSnLawod_-Sdlt8-vpIFN8mXC60tt6G_Sl312c7MMlE6snGcl7PDQQmpMjE2h2Yq7CF55_RK56GKulErIAk9AbMnhniRXXtAiX0.5b-Rg5HJXwCZnjZoX3HnWwXJK9A_sUY7N3fG-ZAj6OA&dib_tag=se&keywords=c.s.+lewis+narnia+le%C3%A3o&qid=1732319982&s=books&sprefix=c.s.+lewis+narnia+le+ao%2Cstripbooks%2C138&sr=1-15'
       },
       {
         id: 'o-cavalo-e-seu-menino',
@@ -262,8 +262,8 @@ const series = [
         autor: autores[8],
         ano: 1954,
         ordem: 3,
-        imagem: 'https://m.media-amazon.com/images/I/81nhzApSc-L.jpg',
-        link: 'https://www.amazon.com.br/dp/B008Y8TFVG'
+        imagem: 'https://m.media-amazon.com/images/I/71aPtIezcWL._AC_UY218_.jpg',
+        link: 'https://www.amazon.com.br/As-cr%C3%B4nicas-N%C3%A1rnia-cavalo-menino/dp/8578273583/ref=sr_1_2?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=OV2NXEWL0ODX&dib=eyJ2IjoiMSJ9.gtwPpGF7B2xVMwJXSFxRIeXST9Ld_KQpj5otfxBJ-H-p37d4ZL4aobVlqZn9XCgF33G_jH9vD0LPOtVKTz4PhTahi9d9SYtC8sF9gddsYTPMkXXo1utUQoBA5jhgpH6-cmwtZgD3iUJJaVtm0j4rHd8PaMgh7TdkdK6X8yCL_UGtuWlDG4dobsqbAGIZ4QgkpOyWV3203n2P3gyCxvjENbC_XX9drg6JkpQw-bR04II.eRfpGoV6KtV_xZeqRH-mIcmwU7kSc3qT1MS7QoNU9f4&dib_tag=se&keywords=c.s.+lewis+narnia+cavalo&qid=1732320253&s=books&sprefix=c.s.+lewis+narnia+cavalo%2Cstripbooks%2C181&sr=1-2'
       },
       {
         id: 'principe-caspian',
@@ -271,8 +271,8 @@ const series = [
         autor: autores[8],
         ano: 1951,
         ordem: 4,
-        imagem: 'https://m.media-amazon.com/images/I/81og2U58Y4L.jpg',
-        link: 'https://www.amazon.com.br/dp/B008Y8TGBW'
+        imagem: 'https://m.media-amazon.com/images/I/81WW5ewAnbL._AC_UY218_.jpg',
+        link: 'https://www.amazon.com.br/Pr%C3%ADncipe-Caspian-C-S-Lewis/dp/8546901953/ref=sr_1_2?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1V635D9DZYVDU&dib=eyJ2IjoiMSJ9.37AdYPbYyyNBsvoRWyhMSaBxUnH46HqSXaNkMRQhDR-OX0Yre5ftXjgBFH-vf-K9ALtdXHJxXSu80KUSwvAUSylS3Q7_CJrzfBNFG34p63fbxL3lYcCsLusbJqQ4xg_5xVB6ay14lL1QWOppO8UD8O0werNBdc-kZ7oLrXyiTdAp5Wf4Y52DmwIiLt-MwvqpQAl90iLp0JrYx4Yi8JPxERqNUx1zMrBALR4KWhdRi6k.0WsjsrZ36tklBWCot_bTQ7LbMN4J8eLmKAbVDsQAHgE&dib_tag=se&keywords=c.s.+lewis+prIncipe&qid=1732321252&s=books&sprefix=c.s.+lewis+principe%2Cstripbooks%2C163&sr=1-2'
       },
       {
         id: 'a-viagem-do-peregrino-da-alvorada',
@@ -280,8 +280,8 @@ const series = [
         autor: autores[8],
         ano: 1952,
         ordem: 5,
-        imagem: 'https://m.media-amazon.com/images/I/81GnKmF6uXL.jpg',
-        link: 'https://www.amazon.com.br/dp/B008Y8TGBN'
+        imagem: 'https://m.media-amazon.com/images/I/71rHFeIWJKL._AC_UY218_.jpg',
+        link: 'https://www.amazon.com.br/viagem-do-peregrino-alvorada/dp/854690135X/ref=sr_1_14?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=31P6JX3ICRMOS&dib=eyJ2IjoiMSJ9.ssHPnelcSJuVRalKKOlXjXnA3g1z0pu9WFDqL3uzLESnr0cD2iBC87fWmCkNJr19ta5gJlgJQ5tGEr5hmd33wbYS2ivwk0C8nHBKzUBkMDQeaJV7qunZpJORLSvhB0FwwJ1hz56TNSnLawod_-Sdlt8-vpIFN8mXC60tt6G_Sl312c7MMlE6snGcl7PDQQmpMjE2h2Yq7CF55_RK56GKulErIAk9AbMnhniRXXtAiX0.5b-Rg5HJXwCZnjZoX3HnWwXJK9A_sUY7N3fG-ZAj6OA&dib_tag=se&keywords=c.s.+lewis+narnia+le%C3%A3o&qid=1732319982&s=books&sprefix=c.s.+lewis+narnia+le+ao%2Cstripbooks%2C138&sr=1-14'
       },
       {
         id: 'a-cadeira-de-prata',
@@ -289,8 +289,8 @@ const series = [
         autor: autores[8],
         ano: 1953,
         ordem: 6,
-        imagem: 'https://m.media-amazon.com/images/I/81a-Q5M6-xL.jpg',
-        link: 'https://www.amazon.com.br/dp/B008Y8TFZY'
+        imagem: 'https://m.media-amazon.com/images/I/71TiKAV9d4L._AC_UY218_.jpg',
+        link: 'https://www.amazon.com.br/As-cr%C3%B4nicas-N%C3%A1rnia-cadeira-prata/dp/8578277910/ref=sr_1_17?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=31P6JX3ICRMOS&dib=eyJ2IjoiMSJ9.cPE9CzRn4bF2YVA6u5d7Fu92UdpDeTCRANAN5-newKxKL8LUQbLSOpcH6xj7Yl9aNkEGYQWoMOh5U1Nc0Z5GUA.ykC5ntrpazsw-HPEI6oiw9EwB5gyxMWQzdqdUKhtMtU&dib_tag=se&keywords=c.s.+lewis+narnia+le%C3%A3o&qid=1732320099&s=books&sprefix=c.s.+lewis+narnia+le+ao%2Cstripbooks%2C138&sr=1-17'
       },
       {
         id: 'a-ultima-batalha',
@@ -298,8 +298,8 @@ const series = [
         autor: autores[8],
         ano: 1956,
         ordem: 7,
-        imagem: 'https://m.media-amazon.com/images/I/91g-QhUOTvL.jpg',
-        link: 'https://www.amazon.com.br/dp/B008Y8TGBG'
+        imagem: 'https://m.media-amazon.com/images/I/A1sgP7qIaEL._AC_UY218_.jpg',
+        link: 'https://www.amazon.com.br/As-Cr%C3%B4nicas-N%C3%A1rnia-%C3%9Altima-Batalha/dp/8533616201/ref=sr_1_24?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=31P6JX3ICRMOS&dib=eyJ2IjoiMSJ9.Y09KkPkfxt2UO_aF0bsM3YWa7s3Y21msuZXBLbyR_21_7UgxGfRZR3hJgiosMgPid7MYFTCHrigHf3cFcpVwrvVJLpDbE-A9_zgZ9N54CXxy_RSLJFeFaxOp5eAUq3clX2e1vdVvvwjODSvYFs8xTU-IozXJwH0j9QGG8T4feGQ.v6iByz9r0pXW57XUe0rbkJNLt0UVUQlxZC7lt8YoBnM&dib_tag=se&keywords=c.s.+lewis+narnia+le%C3%A3o&qid=1732320099&s=books&sprefix=c.s.+lewis+narnia+le+ao%2Cstripbooks%2C138&sr=1-24'
       }
     ]
   },
@@ -319,8 +319,8 @@ const series = [
         autor: autores[4],
         ano: 1979,
         ordem: 1,
-        imagem: 'https://m.media-amazon.com/images/I/81Z0eZKFr9L.jpg',
-        link: 'https://www.amazon.com.br/dp/B004J4W9LO'
+        imagem: 'https://m.media-amazon.com/images/I/81ftPIL0vvL._SL1500_.jpg',
+        link: 'https://www.amazon.com.br/guia-mochileiro-das-gal%C3%A1xias-ebook/dp/B00A3D9OF6?ref_=ast_author_dp&dib=eyJ2IjoiMSJ9.0LHv63Frkk6asxUQnKUogeWeQAUdvT-5eTQlxgvQOMEAplc-IMM_vjvf2i1nnPP3XYiXreCbXOTrAYYgQNJkay7lX5qdBnhcYvvgxwNadgkn9DAV1mP_9IyVAISRwFy_TpWF7NVqVZdXCzp3h2bAT5BiBgdNCYfhr5zlz0n9csLpN6J5Ico9qXExXkCgSL93cAGtEHLL0CSH7YzlomB5KsmxZTAZn-wPTVPtjE24mks.m1-Vjt8sXZK0mvNlwrciCHFwP_UokecOaChc0m0ROEE&dib_tag=AUTHOR'
       },
       {
         id: 'o-restaurante-ambientado-no-fim-do-universo',
@@ -328,8 +328,8 @@ const series = [
         autor: autores[4],
         ano: 1980,
         ordem: 2,
-        imagem: 'https://m.media-amazon.com/images/I/81c2fzdtptL.jpg',
-        link: 'https://www.amazon.com.br/dp/B004J4W9K4'
+        imagem: 'https://m.media-amazon.com/images/I/81ebIAdN+uL._AC_UY218_.jpg',
+        link: 'https://www.amazon.com.br/restaurante-fim-universo-Douglas-Adams/dp/8599296582/ref=sr_1_3?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HYP9R6B1LGAT&dib=eyJ2IjoiMSJ9.xWfFBdIujPV-RquYB21FIjD7JCV5wc-fXtADF5bxMysibpJLHDavOaeRfPhGCLeIAK6N4IbFx_sMnBWDWhTQLjYlhNgNm6dH_9OSYopS3yoMwml-W6ptzSPgX9wzKDgDumoi5htH7Ynocf80kRZ6kYpBwj6_91VB6D6niE9kzQIvQkyNXR8FJDMUEfItLdrehMrk3dph6AvFPdrD7v8Vk49q8ukbxGI65TRSTxL4CYM.Ua7Vb4zFv56-dm_wNbbKXk9Yp7TGo6R3FX3gEPqEPuU&dib_tag=se&keywords=O+Guia+do+Mochileiro+das+Gal%C3%A1xias&qid=1732321306&s=books&sprefix=o+guia+do+mochileiro+das+gal%C3%A1xias%2Cstripbooks%2C229&sr=1-3'
       },
       {
         id: 'a-vida-o-universo-e-tudo-mais',
@@ -337,17 +337,17 @@ const series = [
         autor: autores[4],
         ano: 1982,
         ordem: 3,
-        imagem: 'https://m.media-amazon.com/images/I/81hmEF7g7qL.jpg',
-        link: 'https://www.amazon.com.br/dp/B004J4W9L6'
+        imagem: 'https://m.media-amazon.com/images/I/81utwCt4LDL._AC_UY218_.jpg',
+        link: 'https://www.amazon.com.br/vida-universo-tudo-mais/dp/8599296590/ref=sr_1_7?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HYP9R6B1LGAT&dib=eyJ2IjoiMSJ9.xWfFBdIujPV-RquYB21FIjD7JCV5wc-fXtADF5bxMysibpJLHDavOaeRfPhGCLeIAK6N4IbFx_sMnBWDWhTQLjYlhNgNm6dH_9OSYopS3yoMwml-W6ptzSPgX9wzKDgDumoi5htH7Ynocf80kRZ6kYpBwj6_91VB6D6niE9kzQIvQkyNXR8FJDMUEfItLdrehMrk3dph6AvFPdrD7v8Vk49q8ukbxGI65TRSTxL4CYM.Ua7Vb4zFv56-dm_wNbbKXk9Yp7TGo6R3FX3gEPqEPuU&dib_tag=se&keywords=O+Guia+do+Mochileiro+das+Gal%C3%A1xias&qid=1732321306&s=books&sprefix=o+guia+do+mochileiro+das+gal%C3%A1xias%2Cstripbooks%2C229&sr=1-7'
       },
       {
-        id: 'só-mais-um-episodio',
-        titulo: 'Só Mais um Episódio',
+        id: 'ate-mais-e-obrigado-pelo-peixe',
+        titulo: 'Até mais, e obrigado pelos peixes!',
         autor: autores[4],
         ano: 1987,
         ordem: 4,
-        imagem: 'https://m.media-amazon.com/images/I/81zqOZjVwPL.jpg',
-        link: 'https://www.amazon.com.br/dp/B004J4W9L9'
+        imagem: 'https://m.media-amazon.com/images/I/813uy12RyYL._SL1500_.jpg',
+        link: 'https://www.amazon.com.br/Obrigado-Pelos-Peixes-mochileiro-gal%C3%A1xias-ebook/dp/B00A3D1LWK?ref_=ast_author_dp&dib=eyJ2IjoiMSJ9.0LHv63Frkk6asxUQnKUogeWeQAUdvT-5eTQlxgvQOMEAplc-IMM_vjvf2i1nnPP3XYiXreCbXOTrAYYgQNJkay7lX5qdBnhcYvvgxwNadgkn9DAV1mP_9IyVAISRwFy_TpWF7NVqVZdXCzp3h2bAT5BiBgdNCYfhr5zlz0n9csLpN6J5Ico9qXExXkCgSL93cAGtEHLL0CSH7YzlomB5KsmxZTAZn-wPTVPtjE24mks.m1-Vjt8sXZK0mvNlwrciCHFwP_UokecOaChc0m0ROEE&dib_tag=AUTHOR'
       },
       {
         id: 'praticamente-inofensiva',
@@ -355,8 +355,8 @@ const series = [
         autor: autores[4],
         ano: 1992,
         ordem: 5,
-        imagem: 'https://m.media-amazon.com/images/I/91ByGlpaZ2L.jpg',
-        link: 'https://www.amazon.com.br/dp/B004J4W9MA'
+        imagem: 'https://m.media-amazon.com/images/I/81zsXaEoqML._AC_UY218_.jpg',
+        link: 'https://www.amazon.com.br/Praticamente-inofensiva-Douglas-Adams/dp/8599296612/ref=sr_1_6?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HYP9R6B1LGAT&dib=eyJ2IjoiMSJ9.xWfFBdIujPV-RquYB21FIjD7JCV5wc-fXtADF5bxMysibpJLHDavOaeRfPhGCLeIAK6N4IbFx_sMnBWDWhTQLjYlhNgNm6dH_9OSYopS3yoMwml-W6ptzSPgX9wzKDgDumoi5htH7Ynocf80kRZ6kYpBwj6_91VB6D6niE9kzQIvQkyNXR8FJDMUEfItLdrehMrk3dph6AvFPdrD7v8Vk49q8ukbxGI65TRSTxL4CYM.Ua7Vb4zFv56-dm_wNbbKXk9Yp7TGo6R3FX3gEPqEPuU&dib_tag=se&keywords=O+Guia+do+Mochileiro+das+Gal%C3%A1xias&qid=1732321306&s=books&sprefix=o+guia+do+mochileiro+das+gal%C3%A1xias%2Cstripbooks%2C229&sr=1-6'
       }
     ]
   },
@@ -375,8 +375,8 @@ const series = [
         autor: autores[3],
         ano: 1965,
         ordem: 1,
-        imagem: 'https://m.media-amazon.com/images/I/81Q98s-8oTL.jpg',
-        link: 'https://www.amazon.com.br/dp/B00C9L62W0'
+        imagem: 'https://m.media-amazon.com/images/I/81zN7udGRUL._AC_UY218_.jpg',
+        link: 'https://www.amazon.com.br/Duna-Frank-Herbert/dp/857657313X/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=29AG714G7F3JX&dib=eyJ2IjoiMSJ9.W8yC5GvijSEbd-zGZ0hTXxd82J50LhX0TiTyxQl07ZGwzDgi4aJLIrQqYz88ED6Ei-wfOHCIWMDcY5Z1TIIj9zFp5vOhWCzRjuTbEmCQygul4b2KHacLHCEu6t2cHK-WDomgpM6n-hKZ2140QyGv6EFr9CqM9lxuBG2XU1JUyvEhvYzwaxZfuHEX4OP-igEyhgwR8R6hPwYVwhnNkoXsdtqScHT5-IrJwi0FPUu10RQ.OTnalRfS3fbLP0mmEGFDEhFuTKegiZ8wyDFTNAr6lFM&dib_tag=se&keywords=duna&qid=1732321787&s=books&sprefix=duna%2Cstripbooks%2C213&sr=1-1&ufe=app_do%3Aamzn1.fos.6d798eae-cadf-45de-946a-f477d47705b9'
       },
       {
         id: 'messias-de-duna',
@@ -384,8 +384,8 @@ const series = [
         autor: autores[3],
         ano: 1969,
         ordem: 2,
-        imagem: 'https://m.media-amazon.com/images/I/81Uo1OExflL.jpg',
-        link: 'https://www.amazon.com.br/dp/B00C9L62Z4'
+        imagem: 'https://m.media-amazon.com/images/I/91iLyWRwmRL._AC_UY218_.jpg',
+        link: 'https://www.amazon.com.br/Messias-Duna-Frank-Herbert/dp/8576573822/ref=sr_1_4?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=29AG714G7F3JX&dib=eyJ2IjoiMSJ9.W8yC5GvijSEbd-zGZ0hTXxd82J50LhX0TiTyxQl07ZGwzDgi4aJLIrQqYz88ED6Ei-wfOHCIWMDcY5Z1TIIj9zFp5vOhWCzRjuTbEmCQygul4b2KHacLHCEu6t2cHK-WDomgpM6n-hKZ2140QyGv6EFr9CqM9lxuBG2XU1JUyvEhvYzwaxZfuHEX4OP-igEyhgwR8R6hPwYVwhnNkoXsdtqScHT5-IrJwi0FPUu10RQ.OTnalRfS3fbLP0mmEGFDEhFuTKegiZ8wyDFTNAr6lFM&dib_tag=se&keywords=duna&qid=1732321787&s=books&sprefix=duna%2Cstripbooks%2C213&sr=1-4&ufe=app_do%3Aamzn1.fos.6d798eae-cadf-45de-946a-f477d47705b9'
       },
       {
         id: 'filhos-de-duna',
@@ -393,35 +393,35 @@ const series = [
         autor: autores[3],
         ano: 1976,
         ordem: 3,
-        imagem: 'https://m.media-amazon.com/images/I/81X9l5rKfdL.jpg',
-        link: 'https://www.amazon.com.br/dp/B00C9L62ZK'
+        imagem: 'https://m.media-amazon.com/images/I/810pYklnGsL._AC_UY218_.jpg',
+        link: 'https://www.amazon.com.br/Filhos-Duna-Frank-Herbert/dp/8576573148/ref=sr_1_5?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=29AG714G7F3JX&dib=eyJ2IjoiMSJ9.W8yC5GvijSEbd-zGZ0hTXxd82J50LhX0TiTyxQl07ZGwzDgi4aJLIrQqYz88ED6Ei-wfOHCIWMDcY5Z1TIIj9zFp5vOhWCzRjuTbEmCQygul4b2KHacLHCEu6t2cHK-WDomgpM6n-hKZ2140QyGv6EFr9CqM9lxuBG2XU1JUyvEhvYzwaxZfuHEX4OP-igEyhgwR8R6hPwYVwhnNkoXsdtqScHT5-IrJwi0FPUu10RQ.OTnalRfS3fbLP0mmEGFDEhFuTKegiZ8wyDFTNAr6lFM&dib_tag=se&keywords=duna&qid=1732321787&s=books&sprefix=duna%2Cstripbooks%2C213&sr=1-5&ufe=app_do%3Aamzn1.fos.6d798eae-cadf-45de-946a-f477d47705b9'
       },
       {
-        id: 'deus-em-duna',
-        titulo: 'Deus Em Duna',
+        id: 'o-imperador-deus-de-duna',
+        titulo: 'O Imperador-Deus de Duna',
         autor: autores[3],
         ano: 1981,
         ordem: 4,
-        imagem: 'https://m.media-amazon.com/images/I/91J9lbVuDQL.jpg',
-        link: 'https://www.amazon.com.br/dp/B00C9L62ZC'
+        imagem: 'https://m.media-amazon.com/images/I/91XCwEX5fiL._AC_UY218_.jpg',
+        link: 'https://www.amazon.com.br/Imperador-deus-Duna-4%C2%BA-Sextologia/dp/8576572621/ref=sr_1_6?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=29AG714G7F3JX&dib=eyJ2IjoiMSJ9.W8yC5GvijSEbd-zGZ0hTXxd82J50LhX0TiTyxQl07ZGwzDgi4aJLIrQqYz88ED6Ei-wfOHCIWMDcY5Z1TIIj9zFp5vOhWCzRjuTbEmCQygul4b2KHacLHCEu6t2cHK-WDomgpM6n-hKZ2140QyGv6EFr9CqM9lxuBG2XU1JUyvEhvYzwaxZfuHEX4OP-igEyhgwR8R6hPwYVwhnNkoXsdtqScHT5-IrJwi0FPUu10RQ.OTnalRfS3fbLP0mmEGFDEhFuTKegiZ8wyDFTNAr6lFM&dib_tag=se&keywords=duna&qid=1732321787&s=books&sprefix=duna%2Cstripbooks%2C213&sr=1-6&ufe=app_do%3Aamzn1.fos.6d798eae-cadf-45de-946a-f477d47705b9'
       },
       {
-        id: 'hereticus-de-duna',
-        titulo: 'Hereticus de Duna',
+        id: 'hereges-de-duna',
+        titulo: 'Hereges de Duna',
         autor: autores[3],
         ano: 1984,
         ordem: 5,
-        imagem: 'https://m.media-amazon.com/images/I/91X75HZBQvL.jpg',
-        link: 'https://www.amazon.com.br/dp/B00C9L62YY'
+        imagem: 'https://m.media-amazon.com/images/I/61HtrwULeBL._SL1000_.jpg',
+        link: 'https://www.amazon.com.br/Hereges-Duna-5-marcadores-destac%C3%A1veis/dp/8576574020?&linkCode=ll1&tag=estadaoamazon-20&linkId=d660483781f66d39f5ed3a53641b8097&language=pt_BR&ref_=as_li_ss_tl'
       },
       {
-        id: 'capitulos-de-duna',
-        titulo: 'Capítulos de Duna',
+        id: 'as-herdeiras-de-duna',
+        titulo: 'As Herdeiras de Duna',
         autor: autores[3],
         ano: 1985,
         ordem: 6,
-        imagem: 'https://m.media-amazon.com/images/I/91ygqYN8G5L.jpg',
-        link: 'https://www.amazon.com.br/dp/B00C9L62ZG'
+        imagem: 'https://m.media-amazon.com/images/I/81TV6ef3IwL._AC_UY218_.jpg',
+        link: 'https://www.amazon.com.br/Herdeiras-Duna-Frank-Herbert-ebook/dp/B09DXBMVNC/ref=sr_1_9?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=29AG714G7F3JX&dib=eyJ2IjoiMSJ9.W8yC5GvijSEbd-zGZ0hTXxd82J50LhX0TiTyxQl07ZGwzDgi4aJLIrQqYz88ED6Ei-wfOHCIWMDcY5Z1TIIj9zFp5vOhWCzRjuTbEmCQygul4b2KHacLHCEu6t2cHK-WDomgpM6n-hKZ2140QyGv6EFr9CqM9lxuBG2XU1JUyvEhvYzwaxZfuHEX4OP-igEyhgwR8R6hPwYVwhnNkoXsdtqScHT5-IrJwi0FPUu10RQ.OTnalRfS3fbLP0mmEGFDEhFuTKegiZ8wyDFTNAr6lFM&dib_tag=se&keywords=duna&qid=1732321787&s=books&sprefix=duna%2Cstripbooks%2C213&sr=1-9'
       }
     ]
   },
@@ -441,8 +441,8 @@ const series = [
         autor: autores[7],
         ano: 2005,
         ordem: 1,
-        imagem: 'https://m.media-amazon.com/images/I/81+llBCRsfL.jpg',
-        link: 'https://www.amazon.com.br/dp/B00B6EBX8E'
+        imagem: 'https://m.media-amazon.com/images/I/611qVLzatFL._AC_UY218_.jpg',
+        link: 'https://www.amazon.com.br/ladr%C3%A3o-raios-S%C3%A9rie-Jackson-olimpianos/dp/6555606533/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1N3YZTOBCWFDU&dib=eyJ2IjoiMSJ9.57YrOZbu9EdDXDewhpFYRuE-nVeTIT4MbhpzX4lh_dqtWjvT4BMy6vpa8LD6ZoZk1ohDFUUqL7Kq1xQi2DRpMK8kCl-VDiw3gn2RM9I4ocFFU-karIXkmQKrivnxRyWMkLW9K6L5iyioJUodDDHYtVC92isdidDeqgG58Fbl3FRvZFE7jusTnVCaTg0o_6GAumupw8X_QB3JBAdOGK5e4KttwaH-7MYV9ekiy7_pPns.ChDh4Bl0y2PYoPrluYkUtjD9vjGaXGg3mXXksuagcy4&dib_tag=se&keywords=Percy+Jackson&qid=1732322608&s=books&sprefix=percy+jackson%2Cstripbooks%2C268&sr=1-1'
       },
       {
         id: 'o-mar-de-monstros',
@@ -450,8 +450,8 @@ const series = [
         autor: autores[7],
         ano: 2006,
         ordem: 2,
-        imagem: 'https://m.media-amazon.com/images/I/81OhqgJ0nQL.jpg',
-        link: 'https://www.amazon.com.br/dp/B00B6EBZ3U'
+        imagem: 'https://m.media-amazon.com/images/I/61bmaEI9amL._AC_UY218_.jpg',
+        link: 'https://www.amazon.com.br/mar-monstros-S%C3%A9rie-Jackson-olimpianos/dp/6555606525/ref=sr_1_8?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1N3YZTOBCWFDU&dib=eyJ2IjoiMSJ9.57YrOZbu9EdDXDewhpFYRuE-nVeTIT4MbhpzX4lh_dqtWjvT4BMy6vpa8LD6ZoZk1ohDFUUqL7Kq1xQi2DRpMK8kCl-VDiw3gn2RM9I4ocFFU-karIXkmQKrivnxRyWMkLW9K6L5iyioJUodDDHYtVC92isdidDeqgG58Fbl3FRvZFE7jusTnVCaTg0o_6GAumupw8X_QB3JBAdOGK5e4KttwaH-7MYV9ekiy7_pPns.ChDh4Bl0y2PYoPrluYkUtjD9vjGaXGg3mXXksuagcy4&dib_tag=se&keywords=Percy+Jackson&qid=1732322608&s=books&sprefix=percy+jackson%2Cstripbooks%2C268&sr=1-8'
       },
       {
         id: 'a-maldicao-do-tita',
@@ -459,8 +459,8 @@ const series = [
         autor: autores[7],
         ano: 2007,
         ordem: 3,
-        imagem: 'https://m.media-amazon.com/images/I/81m+bxHn9TL.jpg',
-        link: 'https://www.amazon.com.br/dp/B00B6EBZ6A'
+        imagem: 'https://m.media-amazon.com/images/I/61s1FVTeVpL._AC_UY218_.jpg',
+        link: 'https://www.amazon.com.br/maldi%C3%A7%C3%A3o-tit%C3%A3-S%C3%A9rie-Jackson-olimpianos/dp/6555606541/ref=sr_1_6?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1N3YZTOBCWFDU&dib=eyJ2IjoiMSJ9.57YrOZbu9EdDXDewhpFYRuE-nVeTIT4MbhpzX4lh_dqtWjvT4BMy6vpa8LD6ZoZk1ohDFUUqL7Kq1xQi2DRpMK8kCl-VDiw3gn2RM9I4ocFFU-karIXkmQKrivnxRyWMkLW9K6L5iyioJUodDDHYtVC92isdidDeqgG58Fbl3FRvZFE7jusTnVCaTg0o_6GAumupw8X_QB3JBAdOGK5e4KttwaH-7MYV9ekiy7_pPns.ChDh4Bl0y2PYoPrluYkUtjD9vjGaXGg3mXXksuagcy4&dib_tag=se&keywords=Percy+Jackson&qid=1732322608&s=books&sprefix=percy+jackson%2Cstripbooks%2C268&sr=1-6'
       },
       {
         id: 'a-batalha-do-labirinto',
@@ -468,8 +468,8 @@ const series = [
         autor: autores[7],
         ano: 2008,
         ordem: 4,
-        imagem: 'https://m.media-amazon.com/images/I/81hOdWuXY1L.jpg',
-        link: 'https://www.amazon.com.br/dp/B00B6EBZ7M'
+        imagem: 'https://m.media-amazon.com/images/I/718W1i4RGyL._AC_UY218_.jpg',
+        link: 'https://www.amazon.com.br/batalha-labirinto-S%C3%A9rie-Jackson-olimpianos/dp/6555606509/ref=sr_1_9?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1N3YZTOBCWFDU&dib=eyJ2IjoiMSJ9.57YrOZbu9EdDXDewhpFYRuE-nVeTIT4MbhpzX4lh_dqtWjvT4BMy6vpa8LD6ZoZk1ohDFUUqL7Kq1xQi2DRpMK8kCl-VDiw3gn2RM9I4ocFFU-karIXkmQKrivnxRyWMkLW9K6L5iyioJUodDDHYtVC92isdidDeqgG58Fbl3FRvZFE7jusTnVCaTg0o_6GAumupw8X_QB3JBAdOGK5e4KttwaH-7MYV9ekiy7_pPns.ChDh4Bl0y2PYoPrluYkUtjD9vjGaXGg3mXXksuagcy4&dib_tag=se&keywords=Percy+Jackson&qid=1732322608&s=books&sprefix=percy+jackson%2Cstripbooks%2C268&sr=1-9'
       },
       {
         id: 'o-ultimo-olimpiano',
@@ -477,8 +477,8 @@ const series = [
         autor: autores[7],
         ano: 2009,
         ordem: 5,
-        imagem: 'https://m.media-amazon.com/images/I/81tE2P8DBLL.jpg',
-        link: 'https://www.amazon.com.br/dp/B00B6EBZ8X'
+        imagem: 'https://m.media-amazon.com/images/I/61zKLgJx0IL._AC_UY218_.jpg',
+        link: 'https://www.amazon.com.br/%C3%BAltimo-olimpiano-S%C3%A9rie-Jackson-olimpianos/dp/6555606517/ref=sr_1_7?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1N3YZTOBCWFDU&dib=eyJ2IjoiMSJ9.57YrOZbu9EdDXDewhpFYRuE-nVeTIT4MbhpzX4lh_dqtWjvT4BMy6vpa8LD6ZoZk1ohDFUUqL7Kq1xQi2DRpMK8kCl-VDiw3gn2RM9I4ocFFU-karIXkmQKrivnxRyWMkLW9K6L5iyioJUodDDHYtVC92isdidDeqgG58Fbl3FRvZFE7jusTnVCaTg0o_6GAumupw8X_QB3JBAdOGK5e4KttwaH-7MYV9ekiy7_pPns.ChDh4Bl0y2PYoPrluYkUtjD9vjGaXGg3mXXksuagcy4&dib_tag=se&keywords=Percy+Jackson&qid=1732322608&s=books&sprefix=percy+jackson%2Cstripbooks%2C268&sr=1-7'
       }
     ]
   },
@@ -497,8 +497,8 @@ const series = [
         autor: autores[5],
         ano: 2008,
         ordem: 1,
-        imagem: 'https://m.media-amazon.com/images/I/91-+DW9DEOL.jpg',
-        link: 'https://www.amazon.com.br/dp/B003P2WU40'
+        imagem: 'https://m.media-amazon.com/images/I/71WOkspHbOL._AC_UY218_.jpg',
+        link: 'https://www.amazon.com.br/Jogos-vorazes-Trilogia-Vorazes-Livro-ebook/dp/B00A3D1OYU/ref=sr_1_1?dib=eyJ2IjoiMSJ9.GRuF1Lzc_D-Epo55lLuFxX7JklkWHo2HP9zh9oBKpDYHQcKdml4DJxo1ohFz6dER10YjYdK6VEqmgbJfokBljnaJHBEf1XkULnXf9STlhE8qGNboXMulX9riUGzTS07zzRuVjJKZCudNd3AjU0qrNiFkYXyGFXEmcfKtnKOqzO7zMvTFclqnteh4rtRKZkboaPZKUnWnCHiJNPYU_2fSKSUBaBa0n_76cNreHYWa7bk.djyxE_ak-r2XJ8EJ_olE91rxmM_o6sVJErRIfd0WLZY&dib_tag=se&qid=1732323230&refinements=p_27%3ASuzanne+Collins&s=digital-text&sr=1-1'
       },
       {
         id: 'em-chamas',
@@ -506,8 +506,8 @@ const series = [
         autor: autores[5],
         ano: 2009,
         ordem: 2,
-        imagem: 'https://m.media-amazon.com/images/I/91CJl3U6RQL.jpg',
-        link: 'https://www.amazon.com.br/dp/B003P2WUK8'
+        imagem: 'https://m.media-amazon.com/images/I/71hX09mm4rL._AC_UY218_.jpg',
+        link: 'https://www.amazon.com.br/chamas-Trilogia-Jogos-Vorazes-Livro-ebook/dp/B00A3D1GUW/ref=sr_1_4?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1G8Z40XICO29A&dib=eyJ2IjoiMSJ9.0BkU1ZTPK5JQrrc2mWMultUGCrIKnPJNXqmdnmpbXKunqfmD7uJBNdp4DqebT1LLJP6V1VUuHGGWDi3XUYqUX2yQwUb0NMUBzR-os4OQjgaCIaAaejXul21ej6BvFM9KrVCOUwSXlXjMjV1npUZOXReOUnC9mQ3TZCBjdwQQaXTixOs_TAEqRck2dWU3xk1SM98n2z_lzOyvG-6JG85EHnZ3uvvwgoDmWduQmJHD1Uo.Vhgsj8p1-VZDyZvDuvSj8UpMBY9JVFOUZguZgISpots&dib_tag=se&keywords=jogos+vorazes&qid=1732322926&s=books&sprefix=jogos+voraze%2Cstripbooks%2C173&sr=1-4'
       },
       {
         id: 'a-esperanca',
@@ -515,8 +515,17 @@ const series = [
         autor: autores[5],
         ano: 2010,
         ordem: 3,
-        imagem: 'https://m.media-amazon.com/images/I/91WKHXtPxaL.jpg',
-        link: 'https://www.amazon.com.br/dp/B003P2WUWW'
+        imagem: 'https://m.media-amazon.com/images/I/715ejknjS4L._AC_UY218_.jpg',
+        link: 'https://www.amazon.com.br/esperan%C3%A7a-Trilogia-Jogos-Vorazes-Livro-ebook/dp/B00A3D1HAQ/ref=sr_1_6?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1G8Z40XICO29A&dib=eyJ2IjoiMSJ9.0BkU1ZTPK5JQrrc2mWMultUGCrIKnPJNXqmdnmpbXKunqfmD7uJBNdp4DqebT1LLJP6V1VUuHGGWDi3XUYqUX2yQwUb0NMUBzR-os4OQjgaCIaAaejXul21ej6BvFM9KrVCOUwSXlXjMjV1npUZOXReOUnC9mQ3TZCBjdwQQaXTixOs_TAEqRck2dWU3xk1SM98n2z_lzOyvG-6JG85EHnZ3uvvwgoDmWduQmJHD1Uo.Vhgsj8p1-VZDyZvDuvSj8UpMBY9JVFOUZguZgISpots&dib_tag=se&keywords=jogos+vorazes&qid=1732322926&s=books&sprefix=jogos+voraze%2Cstripbooks%2C173&sr=1-6'
+      },
+      {
+        id: 'a-cantiga-dos-passaros-e-das-serpentes',
+        titulo: 'A Cantiga dos pássaros e das serpentes',
+        autor: autores[5],
+        ano: 2020,
+        ordem: 4,
+        imagem: 'https://m.media-amazon.com/images/I/711wgxr7SDL._AC_UY218_.jpg',
+        link: 'https://www.amazon.com.br/cantiga-p%C3%A1ssaros-serpentes-Trilogia-Vorazes-ebook/dp/B088P9D6P1/ref=sr_1_5?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1G8Z40XICO29A&dib=eyJ2IjoiMSJ9.0BkU1ZTPK5JQrrc2mWMultUGCrIKnPJNXqmdnmpbXKunqfmD7uJBNdp4DqebT1LLJP6V1VUuHGGWDi3XUYqUX2yQwUb0NMUBzR-os4OQjgaCIaAaejXul21ej6BvFM9KrVCOUwSXlXjMjV1npUZOXReOUnC9mQ3TZCBjdwQQaXTixOs_TAEqRck2dWU3xk1SM98n2z_lzOyvG-6JG85EHnZ3uvvwgoDmWduQmJHD1Uo.Vhgsj8p1-VZDyZvDuvSj8UpMBY9JVFOUZguZgISpots&dib_tag=se&keywords=jogos+vorazes&qid=1732323077&s=books&sprefix=jogos+voraze%2Cstripbooks%2C173&sr=1-5'
       }
     ]
   },
@@ -535,8 +544,8 @@ const series = [
         autor: autores[6],
         ano: 2011,
         ordem: 1,
-        imagem: 'https://m.media-amazon.com/images/I/81s6DUyQCZL.jpg',
-        link: 'https://www.amazon.com.br/dp/B006AJ0VV6'
+        imagem: 'https://m.media-amazon.com/images/I/81H1MhBbPbL._AC_UY218_.jpg',
+        link: 'https://www.amazon.com.br/Divergent-1-3-Veronica-Roth/dp/0062387243/ref=sr_1_6?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=BS8YLGL6LH0E&dib=eyJ2IjoiMSJ9.wn4hnyuOQAO60rGGD3oCYlBpIDeWm474Yn56SYUZJXL94upRmjaKUv0ZO3ptsoAV5yDLrc7RuXTWPPqY6hl-wJdVEAVVLMpyXztPlgjsCY1C8vUZL7LpeYx6uA1znQp_ErLznLhqaTfSGXwEnNAy6EEVex6dKxy97nJlcw4-WbH93SZCmNtRsqOXI90ECzt5Tszsidq7-UYVEyTl_o-dc35VoX6_NUT9zmQ-V-ATUYQ.sDrAII6kZcrlVF8C0AProJA1TrBOU2zQYHvb5h6UDm8&dib_tag=se&keywords=divergente&qid=1732323400&s=books&sprefix=divergent%2Cstripbooks%2C177&sr=1-6&ufe=app_do%3Aamzn1.fos.6d798eae-cadf-45de-946a-f477d47705b9'
       },
       {
         id: 'insurgente',
@@ -544,8 +553,8 @@ const series = [
         autor: autores[6],
         ano: 2012,
         ordem: 2,
-        imagem: 'https://m.media-amazon.com/images/I/81DMc2dqq-L.jpg',
-        link: 'https://www.amazon.com.br/dp/B0068Y1E16'
+        imagem: 'https://m.media-amazon.com/images/I/91SYT+tz+BL._AC_UY218_.jpg',
+        link: 'https://www.amazon.com.br/Insurgente-Uma-Escolha-Pode-Destruir/dp/8579801559/ref=sr_1_3?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=BS8YLGL6LH0E&dib=eyJ2IjoiMSJ9.wn4hnyuOQAO60rGGD3oCYlBpIDeWm474Yn56SYUZJXL94upRmjaKUv0ZO3ptsoAV5yDLrc7RuXTWPPqY6hl-wJdVEAVVLMpyXztPlgjsCY1C8vUZL7LpeYx6uA1znQp_ErLznLhqaTfSGXwEnNAy6EEVex6dKxy97nJlcw4-WbH93SZCmNtRsqOXI90ECzt5Tszsidq7-UYVEyTl_o-dc35VoX6_NUT9zmQ-V-ATUYQ.sDrAII6kZcrlVF8C0AProJA1TrBOU2zQYHvb5h6UDm8&dib_tag=se&keywords=divergente&qid=1732323400&s=books&sprefix=divergent%2Cstripbooks%2C177&sr=1-3&ufe=app_do%3Aamzn1.fos.6d798eae-cadf-45de-946a-f477d47705b9'
       },
       {
         id: 'convergente',
@@ -553,8 +562,8 @@ const series = [
         autor: autores[6],
         ano: 2013,
         ordem: 3,
-        imagem: 'https://m.media-amazon.com/images/I/81gQyRllFbL.jpg',
-        link: 'https://www.amazon.com.br/dp/B00AERWMTQ'
+        imagem: 'https://m.media-amazon.com/images/I/81Lpt68N+HL._AC_UY218_.jpg',
+        link: 'https://www.amazon.com.br/Convergente-Escolha-Definir-Trilogia-Divergente/dp/8579801869/ref=sr_1_4?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=BS8YLGL6LH0E&dib=eyJ2IjoiMSJ9.wn4hnyuOQAO60rGGD3oCYlBpIDeWm474Yn56SYUZJXL94upRmjaKUv0ZO3ptsoAV5yDLrc7RuXTWPPqY6hl-wJdVEAVVLMpyXztPlgjsCY1C8vUZL7LpeYx6uA1znQp_ErLznLhqaTfSGXwEnNAy6EEVex6dKxy97nJlcw4-WbH93SZCmNtRsqOXI90ECzt5Tszsidq7-UYVEyTl_o-dc35VoX6_NUT9zmQ-V-ATUYQ.sDrAII6kZcrlVF8C0AProJA1TrBOU2zQYHvb5h6UDm8&dib_tag=se&keywords=divergente&qid=1732323400&s=books&sprefix=divergent%2Cstripbooks%2C177&sr=1-4&ufe=app_do%3Aamzn1.fos.6d798eae-cadf-45de-946a-f477d47705b9'
       }
     ]
   }

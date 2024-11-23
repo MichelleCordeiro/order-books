@@ -1,6 +1,46 @@
 const autores = [
   ,
   {
+    id: 'j-k-rowling',
+    nome: 'J.K. Rowling',
+    imagem:
+      'https://www.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/04/GettyImages-950041970-e1712065084538.jpg',
+    biografia: `
+# J.K. Rowling
+
+**Joanne Rowling**, mais conhecida pelo pseudônimo **J.K. Rowling**, é uma escritora e produtora britânica, nascida em 31 de julho de 1965, em Yate, Gloucestershire, Inglaterra. Ela é famosa por sua série de livros **"Harry Potter"**, que se tornou um fenômeno mundial e deu origem a uma franquia multimídia de grande sucesso, incluindo filmes, peças de teatro e parques temáticos.
+
+## Primeiros Anos e Início da Carreira
+Rowling teve uma infância marcada pelo gosto pela leitura e escrita. Formou-se em francês e estudos clássicos pela **Universidade de Exeter** e trabalhou como pesquisadora e professora de inglês em Portugal. Após um período difícil em sua vida pessoal, durante o qual enfrentou dificuldades financeiras, Rowling começou a escrever o primeiro livro de *Harry Potter* enquanto vivia em Edimburgo, na Escócia, com sua filha.
+
+## A Criação de Harry Potter
+Em 1997, *Harry Potter e a Pedra Filosofal* (*Harry Potter and the Philosopher's Stone*) foi publicado e, rapidamente, tornou-se um sucesso entre leitores de todas as idades. A série Harry Potter é composta por sete livros:
+
+1. **Harry Potter e a Pedra Filosofal** (*Harry Potter and the Philosopher's Stone*) - 1997
+2. **Harry Potter e a Câmara Secreta** (*Harry Potter and the Chamber of Secrets*) - 1998
+3. **Harry Potter e o Prisioneiro de Azkaban** (*Harry Potter and the Prisoner of Azkaban*) - 1999
+4. **Harry Potter e o Cálice de Fogo** (*Harry Potter and the Goblet of Fire*) - 2000
+5. **Harry Potter e a Ordem da Fênix** (*Harry Potter and the Order of the Phoenix*) - 2003
+6. **Harry Potter e o Enigma do Príncipe** (*Harry Potter and the Half-Blood Prince*) - 2005
+7. **Harry Potter e as Relíquias da Morte** (*Harry Potter and the Deathly Hallows*) - 2007
+
+Os livros alcançaram enorme sucesso global, vendendo mais de 500 milhões de cópias e sendo traduzidos para mais de 80 idiomas.
+
+## O Mundo de Harry Potter e o Impacto Cultural
+A série de livros de Harry Potter deu origem a uma franquia multimídia, incluindo uma bem-sucedida série de filmes produzidos pela Warner Bros., estrelados por **Daniel Radcliffe** como Harry Potter, **Emma Watson** como Hermione Granger, e **Rupert Grint** como Ron Weasley. A franquia também expandiu-se para peças de teatro, como *Harry Potter and the Cursed Child*, parques temáticos e a série *Animais Fantásticos* (*Fantastic Beasts*), que explora o universo de Harry Potter em novas histórias.
+
+## Outras Obras e Pseudônimo
+Além de *Harry Potter*, Rowling escreveu livros para adultos sob o pseudônimo de **Robert Galbraith**, incluindo a série de mistério protagonizada pelo detetive **Cormoran Strike**. Ela também escreveu *Morte Súbita* (*The Casual Vacancy*), um romance de drama social para adultos.
+
+## Vida Pessoal e Legado
+Rowling casou-se com Neil Murray em 2001 e tem três filhos. Ela é uma filantropa ativa, fundadora de várias instituições de caridade, incluindo a **Lumos**, que apoia crianças em situação vulnerável. Rowling é uma das autoras mais influentes e bem-sucedidas do século XXI, tendo revolucionado a literatura infantojuvenil e inspirado milhões de leitores ao redor do mundo.
+
+---
+
+> *"As palavras são, na minha nada humilde opinião, nossa fonte mais inesgotável de magia."* - J.K. Rowling
+        `
+  },
+  {
     id: 'j-r-r-tolkien',
     nome: 'J.R.R. Tolkien',
     imagem:
