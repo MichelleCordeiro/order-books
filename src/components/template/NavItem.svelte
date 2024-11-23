@@ -13,6 +13,7 @@
       hover:tracking-wide hover:font-bold hover:text-white hover:bg-white/10
     "
   >
+    <slot></slot>
     <span>{text}</span>
   </a>
 </li>

@@ -5,6 +5,6 @@
 
 <div class="flex flex-col gap-5">
   {#each series as serie}
-  <ItemSerie serie={serie}/>
+    <ItemSerie serie={serie}/>
   {/each}
 </div>
